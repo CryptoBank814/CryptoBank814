@@ -63,9 +63,10 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnmichael746&show_icons=true&locale=en&layout=compact" alt="johnmichael746" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmichael746&show_icons=true&locale=en" alt="johnmichael746" /></p>
--->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmichael746&" alt="johnmichael746" /></p>
+-->
+
 <p align="center">
 <table align="center">
   <tr>
