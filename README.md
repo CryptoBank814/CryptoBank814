@@ -4,8 +4,9 @@
 <h1 align="center" style="color: #0CFFBC">Backend Developer</h1>
 <h3 align="center">I'm a creative, responsible, and seasoned Frontend developer with 6+ years of experience in full-stack development. I build beautiful, intuitive, and fast websites and applications and as a hands-on developer, I strive to be an invaluable asset in driving your business growth.</h3>
 
-<span>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+### What I can do:
+
+<span><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
