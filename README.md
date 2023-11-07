@@ -1,7 +1,5 @@
-- 👋 Nice to meet you, I’m @gaildarkhorse
 
-
-<h1 align="center" style="color: #0CFFBC">Backend Developer</h1>
+<h1 align="center" style="color: white">Backend Developer</h1>
 <h3 align="center">I'm a creative, responsible, and seasoned Frontend developer with 6+ years of experience in full-stack development. I build beautiful, intuitive, and fast websites and applications and as a hands-on developer, I strive to be an invaluable asset in driving your business growth.</h3>
 
 ### What I can do:
