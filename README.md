@@ -1,8 +1,8 @@
 - 👋 Nice to meet you, I’m @gaildarkhorse
 
 
-<h1 align="center" style="color: #0CFFBC">Senior Blockchain Fullstack Developer</h1>
-<h3 align="center">As a seasoned blockchain developer with +5 years of experience, I specialize in building decentralized applications (DApps), writing secure smart contracts, and implementing blockchain solutions for various industries. My expertise lies in utilizing the Ethereum blockchain, Solidity programming language, and web3.js framework to create robust and scalable decentralized systems. With a strong background in software development and a deep understanding of blockchain technology, I am passionate about revolutionizing industries through innovative blockchain solutions.</h3>
+<h1 align="center" style="color: #0CFFBC">We3b | Backend Developer</h1>
+<h3 align="center">I'm a creative, responsible, and seasoned Frontend developer with 6+ years of experience in full-stack development. I build beautiful, intuitive, and fast websites and applications and as a hands-on developer, I strive to be an invaluable asset in driving your business growth.</h3>
 
 
 ### Languages  
