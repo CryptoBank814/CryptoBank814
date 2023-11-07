@@ -1,7 +1,7 @@
 - 👋 Nice to meet you, I’m @gaildarkhorse
 
 
-<h1 align="center" style="color: #0CFFBC">We3b | Backend Developer</h1>
+<h1 align="center" style="color: #0CFFBC">Backend Developer</h1>
 <h3 align="center">I'm a creative, responsible, and seasoned Frontend developer with 6+ years of experience in full-stack development. I build beautiful, intuitive, and fast websites and applications and as a hands-on developer, I strive to be an invaluable asset in driving your business growth.</h3>
 
 
@@ -57,12 +57,13 @@
 ![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnmichael746" alt="johnmichael746" /></a> </p>
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnmichael746&show_icons=true&locale=en&layout=compact" alt="johnmichael746" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmichael746&show_icons=true&locale=en" alt="johnmichael746" /></p>
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnmichael746&" alt="johnmichael746" /></p>
 <p align="center">
